@@ -2,15 +2,6 @@
 Python Koans
 ============
 
-.. image:: https://travis-ci.org/gregmalcolm/python_koans.png?branch=master
-   :target: http://travis-ci.org/gregmalcolm/python_koans
-
-.. image:: https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod
-    :target: https://gitpod.io/#https://github.com/gregmalcolm/python_koans
-    
-.. image:: https://www.eclipse.org/che/contribute.svg
-    :target: https://workspaces.openshift.com/f?url=https://gitpod.io/#https://github.com/gregmalcolm/python_koans
-
 One click installation:
 -----------------------
 
@@ -189,54 +180,6 @@ Once it is set up, you just run:
 Just modify one of the koans files and you'll see that the tests are triggered
 automatically. Sniffer is controlled by ``scent.py``.
 
-Getting the Most From the Koans
--------------------------------
-
-Quoting the Ruby Koans instructions:
-
-	"In test-driven development the mantra has always been, red, green,
-	refactor. Write a failing test and run it (red), make the test pass
-	(green), then refactor it (that is look at the code and see if you
-	can make it any better). In this case you will need to run the koan
-	and see it fail (red), make the test pass (green), then take a
-	moment and reflect upon the test to see what it is teaching you
-	and improve the code to better communicate its intent (refactor)."
-
-
-
-Finding More Koan Projects
---------------------------
-
-There are number of other great Koan projects out there for various languages
-and frameworks. Most of them can be found in GitHub. Also there is a little
-koans activity on Bitbucket.
-
-* GitHub koan projects:
-    https://github.com/search?q=koans&ref=cmdform
-
-* Bitbucket koan projects:
-    https://bitbucket.org/repo/all?name=koans
-
-Translations
-------------
-
-Translations are always welcome! Feel free to add one to this README
-if you happen to work on one:
-
-https://github.com/mswell/python_koans_br
-
-Acknowledgments
----------------
-
-Thanks go to Jim Weirich and Joe O'Brien for the original Ruby Koans that the
-Python Koans is based on! Also the Ruby Koans in turn borrows from Metakoans
-so thanks also go to Ara Howard for that!
-
-Also thanks to everyone who has contributed to Python Koans! I got a great
-headstart by taking over a code base initiated by the combined Mikes of
-FPIP. So here's a little plug for their very cool Python podcast:
-
-* https://www.frompythonimportpodcast.com/
 
 A big thanks also to Mike Pirnat @pirnat and Kevin Chase @kjc have pitched in
 as co-maintainers at various times
